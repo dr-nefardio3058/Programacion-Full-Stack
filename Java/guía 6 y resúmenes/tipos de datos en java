@@ -1,0 +1,6 @@
+TIPOS DE DATO EN JAVA
+
+boolean ---> verdadero/falso
+string ---> cadena
+int ---> integer (entero) [byte, short, long, char]
+float; double ---> decimal

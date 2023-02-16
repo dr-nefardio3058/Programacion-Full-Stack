@@ -1,0 +1,6 @@
+método > clase > objeto
+
+Método ---> "Algoritmo" en PseInt (imperativo ponerlo)
+
+public static void ---> pública, estática ( la clase no necesita ser instanciada para poder utilizar
+el método), y nula (no devuelve ningún valor, no es que es megativa)

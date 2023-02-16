@@ -1,0 +1,12 @@
+Tools->Templates->Java-> (edit template for both java Class and Java main Class) to the following:
+
+<#if package?? && package != "">
+package ${package};
+</#if>
+
+public class ${name} {
+
+    public static void main(String[] args) {
+
+    }
+}

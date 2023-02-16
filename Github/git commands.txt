@@ -1,0 +1,14 @@
+Comandos git
+
+git init
+git status 
+git remote -v
+git diff (diferencias con commit anterior)
+git PUSH (empujar)
+git PULL (traer)
+git checkout [rama; código commit] (saltar ramas, versiones)
+git log (historial)
+git config --global (user.name / user.mail)
+git config -l (info del repositorio)
+git commit
+git --help (explica que hace TODOS LOS comando)

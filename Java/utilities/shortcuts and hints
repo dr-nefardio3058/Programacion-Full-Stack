@@ -1,0 +1,15 @@
+Scanner leer = new Scanner(System.in).useDelimiter("\n");
+Scanner leer = new Scanner(System.in);
+leer.next();
+float temp = leer.nextFloat();
+IgnoreCase ---> IGNORAR MIN, MAYÚS.
+for + TAB = for (int i = 0; i < 10; i++) {
+ifelse + TAB--->if (condition){}else {}
+ir + TAB ---> import
+wh + TAB --> while
+sw + TAB ---> switch
+serr + TAB ---> System.err.println(); (salida de errores a la consola)
+int numero = (int) (Math.random() * 10); ---> número random del 1-9
+private static void x() {
+System.out.printf("") =print(no In); ---> The Java printf function makes it easier to create informative strings of text without using String concatenation, or relying on non-standard characters that might trigger output errors. In Java, printf is recommended as a replacement for calls to the print or println methods.
+Random rand = new Random(); ---> hay que importar usando: import java.util.Scanner;

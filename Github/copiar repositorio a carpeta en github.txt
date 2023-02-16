@@ -1,0 +1,8 @@
+copiar repositorio a carpeta en github
+
+1. Crear carpeta
+2. Abrir git bash
+3. Poner "git clone https://github.com/EggEducacion/MiPrimerRepositorio.git" /URL
+4. Se crea carpeta .git con los logs
+5. Listo. Ya tenés el archivo para trabajarlo de manera local y luego enviarlo al repositorio, o ver los logs en .git
+

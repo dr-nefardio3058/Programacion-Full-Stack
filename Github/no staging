@@ -1,0 +1,4 @@
+Commit the updated files directly, skipping the staging environment:
+
+
+git commit -A -m "New line added"

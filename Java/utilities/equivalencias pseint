@@ -1,0 +1,7 @@
+Equivalencias PseInt / Java:
+
+De Otro Modo ---> Default
+Si ---> If
+SiNo ---> Else If
+Según ---> Switch
+Mientras que ---> continue (vuelve a repetir el bucle)

@@ -1,0 +1,13 @@
+Tipos de errores: léxico, sintáctico o semántico.
+
+Todas las sentencias (líneas) de un programa Java deben terminar con el
+símbolo punto y coma.
+
+Los elementos de un programa son: identificadores (los nombres de las variables, nombres de las clases, interfaces, atributos y
+métodos de un programa), variables, constantes, operadores; palabras
+reservadas (en inglés)
+
+constantes ---> valor no cambia ≠ variables
+
+La sintaxis de la declaración de una variable en java:
+<tipo_de_dato> <nombre_variable>;

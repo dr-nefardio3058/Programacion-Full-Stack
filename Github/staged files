@@ -1,0 +1,3 @@
+Stage all new, modified, and deleted files.
+
+git add -A

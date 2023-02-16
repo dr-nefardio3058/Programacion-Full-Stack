@@ -1,0 +1,9 @@
+OPERADORES 
+
+++ INCREMENTO (+1)
+-- DECREMENTO (-1)
+!= Distinto
+>= ; <= MAYOR IGUAL; MENOR IGUAL
+
+En Java, podemos definir una variable y al mismo tiempo podemos asignarle un valor a diferencia de Pseint:
+<tipo_de_dato> <nombre_variable> = expresion;

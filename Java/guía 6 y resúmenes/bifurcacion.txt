@@ -1,0 +1,5 @@
+INSTRUCCIONES DE BIFURCACIÓN
+
+&& ---> AND
+|| ---> OR
+! ---> Operador Lógico de Negación.

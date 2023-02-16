@@ -1,0 +1,7 @@
+String  :cadenas que se utiliza para leer datos del usuario. 
+}}  :delimita los bloques.
+Scanner  :se utiliza para leer datos del usuario.
+System.out.println()  :muetra mensaje por pantalla.
+nombre = leer.nex()  :leemos el nombre de la persona en la variable nombre.
+System.out.println()  : recordamos que se usa para mostrar por consola un soludo o mensaje
+Cada que escribimos un código, termina con ;
