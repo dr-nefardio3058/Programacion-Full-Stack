@@ -31,7 +31,7 @@ public class Ejercicio_03 {
 
         //Calculo RESTA
         System.out.println("La resta de los número es : " + objeto1.resta());
-       
+    
         //Calculo MULTIPLICACION
         System.out.println("La multiplicación de los número es : " + objeto1.multiplicacion());
         

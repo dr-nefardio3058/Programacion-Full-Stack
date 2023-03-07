@@ -1,7 +1,7 @@
 package Ejercicios_practicos.Ejercicio_07.Entidad;
 
 public class Persona {
-             
+
     private String nombre;
     private int edad;
     private char sexo;

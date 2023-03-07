@@ -23,7 +23,6 @@ public class Ejercicio_06 {
 // recibe y se añade a la cafetera la cantidad de café indicada.
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in).useDelimiter("\n");
-        int taza;
         int opc;
         CafeteraService ver = new CafeteraService();
 
